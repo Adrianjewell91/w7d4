@@ -103,3 +103,14 @@
    text-align: center;
    color: $black;
  }
+
+ .index {
+   display: flex;
+   justify-content: space-between;
+
+ }
+
+ .pokedex {
+   overflow-y: scroll;
+   height: 880px;
+ }
